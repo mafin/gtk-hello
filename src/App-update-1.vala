@@ -1,5 +1,5 @@
 /*
-* Copyright (c) 2018 Petr Enin (https://enin.info)
+* Copyright (c) 2018 Petr Jenin (https://enin.info)
 *
 * This program is free software; you can redistribute it and/or
 * modify it under the terms of the GNU General Public
@@ -16,7 +16,7 @@
 * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
 * Boston, MA 02110-1301 USA
 *
-* Authored by: Petr Enin <petr@enin.info>
+* Authored by: Petr Jenin <petr@enin.info>
 */
 
 using Gtk;
